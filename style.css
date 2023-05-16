@@ -1,0 +1,148 @@
+* {
+    box-sizing: border-box;
+    margin:0px;
+}
+.row1 {
+    background-color: black;
+    height: 60px;
+    width: 1351px;
+    margin:0px;
+}
+.row2 {
+    background-color:rgb(35,47,62);
+    padding-right:11px;
+    height:39px;
+    width: 1351px;
+}
+.row3 {
+    padding:14px 18px 18px 18px;
+    height:1873.640px;
+    width:1351px;
+}
+.r3image {
+    width:1315px;
+    height:263px;
+    margin: auto;                                                                                                                                                                                                                                
+}
+.rowm {
+ /*   border:solid 1px red; */
+    height:332.031px;
+    margin-top:20px;
+}
+.row{
+    height:332.031px;
+    width:1315px;
+}
+.col {
+   /* border:solid 1px black;*/
+    margin-right:20px;
+    height:312.030px;
+    float:left;
+    width:313.750px; 
+}
+.col1 {
+    height:310.030px;
+    width:313.750px;
+    float:right;
+}
+.pic {
+    width:313.750px;
+    height:312.030px;
+}
+.rcol {
+   /* border:solid 1px white;*/
+    height:50px;
+    float:left;
+    font-family:inherit;
+    font-size:14px;
+    color:rgb(255,255,255);
+    margin-left:2px;
+    margin-top:10px;
+}
+.c1 {
+    width:113px;
+    margin:1px;
+    padding:1px 8px 0px 6px;
+    
+}
+.c2 {
+    width:88.64px;  
+    margin:5px 2px 5px 5px;
+}
+.c3 {
+    width:730.5px;
+    margin:0px 10px;
+    padding:10px 4px 10px 3px;
+}
+.c4 {
+    width:73.38px;
+    margin-right:1px;
+    padding:0px 9px 5px;
+}
+.c5 {
+    width:131.53px;
+    margin-right:2px;
+    padding:0px 9px 10px;
+}
+.c6 {
+    width:76.95px;
+    margin-right:2px;
+    padding:0px 9px 10px;
+}
+.c7 {
+    width:84px;
+    margin:0px 11px 0px 2px;
+    padding:0px 9px 11px;
+}
+.logo {
+    width:100%;
+    margin:4px 8px;
+    height:40px;
+}
+.r2col {
+   /* border:solid 1px white;*/
+    margin:8px 3px 6px 0px;
+    padding:8px 9px 8px 9px;
+    height:28px;
+    float:left;
+    font-family: inherit;
+    font-size: 14px;
+    color:white;
+}
+}
+.cl1 {
+   /* width:58.42px;*/
+    padding-right:11px;
+}
+.cl7 {
+    float:right;  
+}
+.rrow {
+    border:solid 1px black;
+    width :312px;
+    height:35%;
+    float:left;
+}
+.r1 {
+    height: 15%;
+}
+.cc1 {
+    border:solid 1px red;
+    width:50%;
+    height:100%;
+    float:left;
+}
+.cc2 {
+    border:solid 1px black;
+    width:312px;
+    height:35%%;
+}
+.cc2text {
+    border:solid 1px blue;
+    height:15%;
+    font-size:20px;
+}
+.cc2timg {
+    height:70%;
+}
+
